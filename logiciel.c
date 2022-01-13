@@ -11,6 +11,7 @@ typedef struct Capteur_telemetrique{
     bool capt_toit;
 }capteur_t;
 
+
 capteur_t telemetrique;
 
 typedef struct capteur_pression{
